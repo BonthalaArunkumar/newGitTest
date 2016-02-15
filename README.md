@@ -13,7 +13,7 @@
 
 # PROJECT MANAGEMENT
 
-Our team consists of five members, SaiRaj Nagula,Bharadwaj Mateti,Surya Kiran Yelagam,ArunKumar Bonthala and Kamal Nayan Raju Kanchanapalli.
+Our team consists of five members. SaiRaj Nagula,Bharadwaj Mateti,Surya Kiran Yelagam,ArunKumar Bonthala and Kamal Nayan Raju Kanchanapalli.
 
 # PROJECT TEAM, DELIVERABLES AND CHECKPOINTS
 
